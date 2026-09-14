@@ -6,8 +6,13 @@
     <Project Path="Tyuiu.YangolenkoMS.Sprint0.Task1.V0/Tyuiu.YangolenkoMS.Sprint0.Task1.V0.csproj" Id="4cc233b2-3cac-4d58-8a3b-3dfd07613f11" />
   </Folder>
   <Folder Name="/Task2/">
-    <Project Path="Tyuiu.YangolenkoMS.Sprint0.Task2,V0/Tyuiu.YangolenkoMS.Sprint0.Task2,V0.csproj" Id="3861cd63-5c36-4c5b-9a5b-7179d2c74f3c" />
+    <Project Path="Tyuiu.YangolenkoMS.Sprint0.Task2,V0/Tyuiu.YangolenkoMS.Sprint0.Task2.V0.csproj" Id="3861cd63-5c36-4c5b-9a5b-7179d2c74f3c" />
     <Project Path="Tyuiu.YangolenkoMS.Sprint0.Task2.V0.Lib/Tyuiu.YangolenkoMS.Sprint0.Task2.V0.Lib.csproj" Id="f6fe249f-1c7f-4496-9d7a-f9b51d141fbb" />
     <Project Path="Tyuiu.YangolenkoMS.Sprint0.Task2.V0.Test/Tyuiu.YangolenkoMS.Sprint0.Task2.V0.Test.csproj" Id="6a18c22e-c135-45b4-86a6-e326759e5613" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.YangolenkoMS.Sprint0.Task3.V0.Lib/Tyuiu.YangolenkoMS.Sprint0.Task3.V0.Lib.csproj" Id="d47ffcd8-c551-4010-8b58-15fd0c01b17f" />
+    <Project Path="Tyuiu.YangolenkoMS.Sprint0.Task3.V0.Test/Tyuiu.YangolenkoMS.Sprint0.Task3.V0.Test.csproj" Id="0402001d-3d99-4f26-877c-56d381b86689" />
+    <Project Path="Tyuiu.YangolenkoMS.Sprint0.Task3.V0/Tyuiu.YangolenkoMS.Sprint0.Task3.V0.csproj" Id="7889c969-3776-46cd-84fc-1292b1779d35" />
   </Folder>
 </Solution>
